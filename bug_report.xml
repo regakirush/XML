@@ -1,1 +1,6 @@
-
+<MainPoints>
+  <title>ShortDiscription</title>
+  <steps>7</steps>
+  <expectedResult>requirements</expectedResult>
+  <actualResult>fact</actualResult>
+</MainPoints>
